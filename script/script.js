@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 $(document).ready(function(){
   $('#registrationForm').bootstrapValidator({
       
@@ -49,4 +49,4 @@ $(document).ready(function(){
   });
 
 });
-</script>
+
